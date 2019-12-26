@@ -15,7 +15,7 @@ In order to control an acoustic field inside a target region, it is important to
    - https://www.sh01.org/data/SourceSensorPlacementSFC/atf.zip (4.83GB)
    
    To reproduce all the results, the full ATF data is required:
-   - https://www.sh01.org/data/SourceSensorPlacementSFC/atf_full.zip (25.27GB)
+   - https://www.sh01.org/data/SourceSensorPlacementSFC/atf_full.zip (29.91GB)
    
 2. Extract the zip file (atf.zip or atf_full.zip) in the folder "data".
 
