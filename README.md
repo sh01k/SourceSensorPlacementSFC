@@ -19,7 +19,7 @@ In order to control an acoustic field inside a target region, it is important to
    
 2. Extract the zip file (atf.zip or atf_full.zip) in the folder "data".
 
-3. Run "main.m".
+3. Run "main.m" by MATLAB.
 
 ## License 
 [MIT](https://github.com/sh01k/SourceSensorPlacementSFC/blob/master/LICENSE)
