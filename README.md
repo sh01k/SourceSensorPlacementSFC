@@ -1,7 +1,9 @@
 # SourceSensorPlacementSFC
 ---
 ## Description
-MATLAB scripts for "Optimizing Source and Sensor Placement for Sound Field Control: An Overview," in press for publication on  *IEEE/ACM Transactions on Audio, Speech, and Language Processing*.
+MATLAB scripts for "Optimizing Source and Sensor Placement for Sound Field Control: An Overview".
+
+- S. Koyama, G. Chardon, and L. Daudet, "Optimizing Source and Sensor Placement for Sound Field Control: An Overview," *IEEE/ACM Transactions on Audio, Speech, and Language Processing* (in press for publication)
 
 The article will be open access on IEEE Xplore (https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655).
 
