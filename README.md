@@ -1,5 +1,5 @@
 # SourceSensorPlacementSFC
----
+
 ## Description
 MATLAB scripts for overview article on optimization of source and sensor placement for sound field control.
 
