@@ -14,6 +14,6 @@ The article will be open access on IEEE Xplore (https://ieeexplore.ieee.org/xpl/
    To reproduce all the results, the full ATF data is required:
    - https://www.sh01.org/data/SourceSensorPlacementSFC/atf_full.zip (25.27GB)
    
-2. Extract zip file in the folder "data".
+2. Extract the zip file (atf.zip/atf_full.zip) in the folder "data".
 
 3. Run "main.m".
