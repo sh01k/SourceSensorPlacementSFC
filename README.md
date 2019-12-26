@@ -25,4 +25,4 @@ In order to control an acoustic field inside a target region, it is important to
 [MIT](https://github.com/sh01k/SensorSourcePlacementSFC/blob/master/LICENSE)
 
 ## Author
-[Shoichi Koyama](http://www.sh01.org/)
+[Shoichi Koyama](https://www.sh01.org/)
