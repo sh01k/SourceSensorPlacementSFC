@@ -3,9 +3,9 @@
 ## Description
 MATLAB scripts for overview article on optimization of source and sensor placement for sound field control.
 
-- S. Koyama, G. Chardon, and L. Daudet, "Optimizing Source and Sensor Placement for Sound Field Control: An Overview," *IEEE/ACM Transactions on Audio, Speech, and Language Processing* (in press for publication)
+- S. Koyama, G. Chardon, and L. Daudet, "Optimizing Source and Sensor Placement for Sound Field Control: An Overview," *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, 2020. (in press)
 
-The article will be open access on [IEEE Xplore](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655).
+The article is open access on [IEEE Xplore](https://doi.org/10.1109/TASLP.2020.2964958).
 
 #### Abstract  
 In order to control an acoustic field inside a target region, it is important to choose suitable positions of secondary sources (loudspeakers) and sensors (control points/microphones). This paper provides an overview of state-of-the-art source and sensor placement methods in sound field control. Although the placement of both sources and sensors greatly affects control accuracy and filter stability, their joint optimization has not been thoroughly investigated in the acoustics literature. In this context, we reformulate five general source and/or sensor placement methods that can be applied for sound field control. We compare the performance of these methods through extensive numerical simulations in both narrowband and broadband scenarios.
