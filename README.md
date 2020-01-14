@@ -3,7 +3,7 @@
 ## Description
 MATLAB scripts for overview article on optimization of source and sensor placement for sound field control.
 
-- S. Koyama, G. Chardon, and L. Daudet, "Optimizing Source and Sensor Placement for Sound Field Control: An Overview," *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, 2020. (in press)
+- S. Koyama, G. Chardon, and L. Daudet, "Optimizing Source and Sensor Placement for Sound Field Control: An Overview," *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, DOI: 10.1109/TASLP.2020.2964958, 2020.
 
 The article is open access on [IEEE Xplore](https://doi.org/10.1109/TASLP.2020.2964958).
 
