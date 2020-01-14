@@ -1,5 +1,7 @@
 # SourceSensorPlacementSFC
 
+[![DOI](https://zenodo.org/badge/190369890.svg)](https://zenodo.org/badge/latestdoi/190369890)
+
 ## Description
 MATLAB scripts for overview article on optimization of source and sensor placement for sound field control.
 
