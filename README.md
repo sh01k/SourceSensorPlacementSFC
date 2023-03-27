@@ -14,7 +14,7 @@ In order to control an acoustic field inside a target region, it is important to
 
 #### Example
 
-<img width="600pt" src="http://sp.ipc.i.u-tokyo.ac.jp/~koyama/data/SourceSensorPlacementSFC/example.png">
+<img width="600pt" src="./example.png">
 Left: source and sensor positions selected by EIM (black dots and crosses); Right: synthesized pressure distribution of single plane wave.
 
 ## Usage
